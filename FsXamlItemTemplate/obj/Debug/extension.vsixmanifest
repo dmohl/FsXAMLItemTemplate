@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="FsXamlItemTemplate.Microsoft.b569f3d6-d6e3-467d-b0d8-e0e38c0a8d77">
+    <Name>F# XAML Item Templates</Name>
+    <Author>Daniel Mohl</Author>
+    <Version>1.0</Version>
+    <Description xml:space="preserve">F# XAML (WPF and Silverlight) Item Templates such as Window, User Control, Page, and Resource Dictionary.</Description>
+    <Locale>1033</Locale>
+    <License>MicrosoftPublicLicense.txt</License>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <ItemTemplate>ItemTemplates</ItemTemplate>
+  </Content>
+</Vsix>

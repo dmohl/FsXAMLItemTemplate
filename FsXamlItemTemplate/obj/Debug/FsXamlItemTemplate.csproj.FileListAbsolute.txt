@@ -1,0 +1,8 @@
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\FsXamlItemTemplate.vsix
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\extension.vsixmanifest
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\FsXamlItemTemplate.dll
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\FsXamlItemTemplate.pdb
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\extension.vsixmanifest
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFUserControl.zip
