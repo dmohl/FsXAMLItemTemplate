@@ -6,3 +6,4 @@ C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\FsXamlItemTemplate.dll
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\FsXamlItemTemplate.pdb
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\extension.vsixmanifest
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFUserControl.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFWindow.zip

@@ -4,3 +4,5 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.0\\MicrosoftPublicLicense.txt
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.0\ItemTemplates\WPF\\WPFUserControl.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.0\ItemTemplates\WPF\\WPFWindow.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.0\\XamlItemTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.0\\XamlItemTemplateWizard.pdb
