@@ -7,3 +7,8 @@ C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\FsXamlItemTemplate.pdb
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\obj\Debug\extension.vsixmanifest
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFUserControl.zip
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFWindow.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFResourceDictionary.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFPage.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SilverlightControl.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SLPage.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SLResourceDictionary.zip
