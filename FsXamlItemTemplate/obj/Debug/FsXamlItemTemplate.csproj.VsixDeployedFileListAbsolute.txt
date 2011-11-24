@@ -33,3 +33,8 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\\FsWindowsPhonePivotPage.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\\FsWindowsPhonePanoramaPage.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\\FsWindowsPhonePortraitPage.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\Silverlight for Windows Phone\\FsWindowsPhoneLandscapePage.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\Silverlight for Windows Phone\\FsWindowsPhoneUserControl.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\Silverlight for Windows Phone\\FsWindowsPhonePivotPage.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\Silverlight for Windows Phone\\FsWindowsPhonePanoramaPage.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# XAML Item Templates\1.1\ItemTemplates\Silverlight for Windows Phone\\FsWindowsPhonePortraitPage.zip

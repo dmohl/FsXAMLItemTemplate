@@ -67,23 +67,23 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ItemTemplates\FsWindowsPhoneLandscapePage.zip">
+    <Content Include="ItemTemplates\Silverlight for Windows Phone\FsWindowsPhoneLandscapePage.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ItemTemplates\FsWindowsPhoneUserControl.zip">
+    <Content Include="ItemTemplates\Silverlight for Windows Phone\FsWindowsPhoneUserControl.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ItemTemplates\FsWindowsPhonePivotPage.zip">
+    <Content Include="ItemTemplates\Silverlight for Windows Phone\FsWindowsPhonePivotPage.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ItemTemplates\FsWindowsPhonePanoramaPage.zip">
+    <Content Include="ItemTemplates\Silverlight for Windows Phone\FsWindowsPhonePanoramaPage.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ItemTemplates\FsWindowsPhonePortraitPage.zip">
+    <Content Include="ItemTemplates\Silverlight for Windows Phone\FsWindowsPhonePortraitPage.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
