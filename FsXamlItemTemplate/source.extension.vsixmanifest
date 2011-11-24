@@ -3,11 +3,16 @@
   <Identifier Id="FsXamlItemTemplate.Microsoft.b569f3d6-d6e3-467d-b0d8-e0e38c0a8d77">
     <Name>F# XAML Item Templates</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.0</Version>
-    <Description xml:space="preserve">F# XAML (WPF and Silverlight) Item Templates such as Window, User Control, Page, and Resource Dictionary.</Description>
+    <Version>1.1</Version>
+    <Description xml:space="preserve">F# XAML (WPF, Silverlight, and Windows Phone) Item Templates such as Window, User Control, Page, and Resource Dictionary.</Description>
     <Locale>1033</Locale>
     <License>MicrosoftPublicLicense.txt</License>
     <SupportedProducts>
+      <VisualStudio Version="11.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
       <VisualStudio Version="10.0">
         <Edition>Ultimate</Edition>
         <Edition>Premium</Edition>

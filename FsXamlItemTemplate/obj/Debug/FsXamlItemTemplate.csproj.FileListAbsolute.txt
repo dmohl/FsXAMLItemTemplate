@@ -12,3 +12,8 @@ C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\WPF\WPFPage
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SilverlightControl.zip
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SLPage.zip
 C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\Silverlight\SLResourceDictionary.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\FsWindowsPhoneLandscapePage.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\FsWindowsPhoneUserControl.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\FsWindowsPhonePivotPage.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\FsWindowsPhonePanoramaPage.zip
+C:\git\FsXamlItemTemplate\FsXamlItemTemplate\bin\Debug\ItemTemplates\FsWindowsPhonePortraitPage.zip

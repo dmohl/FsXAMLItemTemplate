@@ -7,8 +7,13 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="52595068-6723-4A8A-B44B-A18D6B198320/f:source.extension.vsixmanifest" caret="1243" fromTop="9" />
+      <File id="52595068-6723-4A8A-B44B-A18D6B198320/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="52595068-6723-4A8A-B44B-A18D6B198320/f:source.extension.vsixmanifest" caret="1243" fromTop="9" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
